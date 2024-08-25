@@ -7,8 +7,11 @@ Welcome to my GitHub profile! I’m Mohamed Alaa, currently studying in the Facu
 - 🌱 I’m currently learning: Data Science techniques.
 ## 🚀 Skills & Technologies
 
-- **Languages**: c++, Python, Java,SQL
-- **Tools**: Git
+- **Languages**:
+  ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat-square&logo=MySQL&logoColor=white)
+  
+- **Tools**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
 
