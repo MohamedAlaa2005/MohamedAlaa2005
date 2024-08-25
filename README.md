@@ -3,7 +3,7 @@
 **`Computer and Data Science Student | AI & Data Science Enthusiast`**
 
 Welcome to my GitHub profile! I’m Mohamed Alaa, currently studying in the Faculty of Computer and Data Science at Alexandria University. I have a strong interest in Artificial Intelligence and Data Science, and I'm passionate about exploring new technologies and solving complex problems.
-
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](Mohamedalaa1098237@gmail.com) [LinkedIn](https://www.linkedin.com/in/mohamed-alaa-62206229b) | [Facebook](https://www.facebook.com/people/Mohamed-Alaa/pfbid02zCLqFFLQAU14TDJ6dgxTYZjzX5E8uBQyskv1wHoiY2BAjrxBsG7fJQt1BiJZckdal/?mibextid=ZbWKwL)
 - 🌱 I’m currently learning: Data Science techniques.
 ## 🚀 Skills & Technologies
 
