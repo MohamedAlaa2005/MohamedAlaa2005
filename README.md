@@ -15,9 +15,7 @@ Welcome to my GitHub profile! I’m passionate about technology and continuously
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-alaa-62206229b)
-
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/people/Mohamed-Alaa/pfbid02zCLqFFLQAU14TDJ6dgxTYZjzX5E8uBQyskv1wHoiY2BAjrxBsG7fJQt1BiJZckdal/?mibextid=ZbWKwL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-alaa-62206229b) [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/people/Mohamed-Alaa/pfbid02zCLqFFLQAU14TDJ6dgxTYZjzX5E8uBQyskv1wHoiY2BAjrxBsG7fJQt1BiJZckdal/?mibextid=ZbWKwL)
 
 
 ## 🛠️ Tools I Use
