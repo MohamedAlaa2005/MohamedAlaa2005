@@ -172,28 +172,3 @@ Contributed to an AI-powered assistive robot designed to help visually impaired 
 </p>
 
 ---
-
-## `05` — Experience & Activities
-
-### ⚙️ M.I.A. Robotics — AI Member
-
-*Made in Alexandria | Faculty of Engineering, Alexandria University*
-
-Contributed to **SHOTO**, an assistive hospital robot that supports visually impaired people through voice interaction, spoken question answering, and indoor navigation.
-
----
-
-## `06` — Certifications
-
-- **Computer Vision Summer Training** — NTI, 2025
-- **AI and Machine Learning Foundations** — SprintUp, 2025
-- **IBM Applied Data Science Specialization** — Coursera, 2024
-
-
----
-
-<p align="center">
-  <b>Building intelligent systems. Engineering meaningful solutions.</b>
-  <br />
-  <sub>Thanks for visiting my profile! ⭐</sub>
-</p>
