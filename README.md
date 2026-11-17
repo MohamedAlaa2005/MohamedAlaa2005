@@ -54,9 +54,9 @@ Achieved **1st place globally** in AnimalCLEF 2026, an open-set wildlife re-iden
 
 ## `03` — Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+\<table>
+\<tr>
+\<td width="50%" valign="top">
 
 ### 🌍 Deimos
 
@@ -69,17 +69,9 @@ A planetary data engineering and similarity-search platform that identifies Eart
 - Ranks the **Top 5 Earth analog locations**.
 - Built with FastAPI and Neon PostgreSQL.
 
-<p>
-  <a href="https://github.com/MohamedAlaa2005/Deimos">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="https://deimos-nasa.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-00A86B?style=flat&logo=vercel&logoColor=white" />
-  </a>
-</p>
+\<p> \<a href="[https://github.com/MohamedAlaa2005/Deimos](https://github.com/MohamedAlaa2005/Deimos)"> \<img src="[https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white](https://img.shields.io/badge/Source_Code-181717?style=flat\&logo=github\&logoColor=white)" /> \</a> \<a href="[https://deimos-nasa.vercel.app/](https://deimos-nasa.vercel.app/)"> \<img src="[https://img.shields.io/badge/Live_Demo-00A86B?style=flat&logo=vercel&logoColor=white](https://img.shields.io/badge/Live_Demo-00A86B?style=flat\&logo=vercel\&logoColor=white)" /> \</a> \</p>
 
-</td>
-<td width="50%" valign="top">
+\</td> \<td width="50%" valign="top">
 
 ### 🩺 HepaCare AI
 
@@ -92,16 +84,9 @@ A clinical knowledge assistant designed to retrieve medical information and gene
 - Document processing and answer verification.
 - Streaming API with FastAPI and Docker.
 
-<p>
-  <a href="https://github.com/MohamedAlaa2005/Clinical-Hepatology-RAG-System-HepaCare-AI">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
+\<p> \<a href="[https://github.com/MohamedAlaa2005/Clinical-Hepatology-RAG-System-HepaCare-AI](https://github.com/MohamedAlaa2005/Clinical-Hepatology-RAG-System-HepaCare-AI)"> \<img src="[https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white](https://img.shields.io/badge/Source_Code-181717?style=flat\&logo=github\&logoColor=white)" /> \</a> \</p>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+\</td> \</tr> \<tr> \<td width="50%" valign="top">
 
 ### 🚘 MasrALPR
 
@@ -114,14 +99,30 @@ An automated system for detecting and recognizing Egyptian vehicle plates, inclu
 - Database integration and blacklist management.
 - FastAPI backend with SQLite storage.
 
-<p>
-  <a href="https://github.com/MohamedAlaa2005/MasrALPR">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
+\<p>
+\<a href="[https://github.com/MohamedAlaa2005/MasrALPR](https://github.com/MohamedAlaa2005/MasrALPR)">
+\<img src="[https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white](https://img.shields.io/badge/Source_Code-181717?style=flat\&logo=github\&logoColor=white)" />
+\</a>
+\</p>
 
-</td>
-<td width="50%" valign="top">
+\</td>
+\<td width="50%" valign="top">
+
+### 🎬 AI Shorts Creator
+
+**Autonomous Video Agent**
+
+An AI-powered autonomous video creation project.
+
+\<p>
+\<a href="[https://github.com/MohamedAlaa2005/AI-Shorts-Creator-Autonomous-Video-Agent](https://github.com/MohamedAlaa2005/AI-Shorts-Creator-Autonomous-Video-Agent)">
+\<img src="[https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white](https://img.shields.io/badge/Source_Code-181717?style=flat\&logo=github\&logoColor=white)" />
+\</a>
+\</p>
+
+\</td>
+\</tr>
+\</table>
 
 ### AI / Machine Learning
 
