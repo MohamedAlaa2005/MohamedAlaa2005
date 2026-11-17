@@ -129,11 +129,17 @@ An automated system for detecting and recognizing Egyptian vehicle plates, inclu
 
 An agentic video production system that autonomously researches trending topics, generates engaging scripts, creates consistent AI visuals, and publishes videos to YouTube.
 
--Multi-agent workflow orchestration using LangGraph.
--Autonomous research and fact extraction using Tavily Search.
--Script generation with a Writer–Critic feedback loop powered by Gemini 2.5 Flash.
--Consistent AI image generation using Flux, prompt chaining, and seed locking.
--Automated video assembly, SEO metadata generation, and YouTube uploading.
+- Multi-agent workflow orchestration using LangGraph.
+- Autonomous research and fact extraction using Tavily Search.
+- Script generation with a Writer–Critic feedback loop powered by Gemini 2.5 Flash.
+- Consistent AI image generation using Flux, prompt chaining, and seed locking.
+- Automated video assembly, SEO metadata generation, and YouTube uploading.
+
+<p>
+  <a href="https://github.com/MohamedAlaa2005/AI-Shorts-Creator-Autonomous-Video-Agent">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </td>
 </tr>
