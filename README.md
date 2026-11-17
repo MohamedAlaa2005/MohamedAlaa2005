@@ -123,30 +123,6 @@ An automated system for detecting and recognizing Egyptian vehicle plates, inclu
 </td>
 <td width="50%" valign="top">
 
-### 🤖 SHOTO
-
-**Assistive Hospital Robot**
-
-Contributed to an AI-powered assistive robot designed to help visually impaired people navigate hospitals and interact through voice.
-
-- Voice-based interaction.
-- Spoken question answering.
-- Indoor navigation to requested hospital destinations.
-
-</td>
-</tr>
-</table>
-
----
-
-## `04` — Technical Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,sql" />
-</p>
-
 ### AI / Machine Learning
 
 <p>
