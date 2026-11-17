@@ -189,18 +189,6 @@ Contributed to **SHOTO**, an assistive hospital robot that supports visually imp
 - **AI and Machine Learning Foundations** — SprintUp, 2025
 - **IBM Applied Data Science Specialization** — Coursera, 2024
 
----
-
-## `07` — GitHub Overview
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohamedAlaa2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAlaa2005&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MohamedAlaa2005&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
