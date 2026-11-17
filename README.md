@@ -123,15 +123,17 @@ An automated system for detecting and recognizing Egyptian vehicle plates, inclu
 </td>
 <td width="50%" valign="top">
 
-### 🤖 SHOTO
+### AI Shorts Creator
 
-**Assistive Hospital Robot**
+**Autonomous Video Agent**
 
-Contributed to an AI-powered assistive robot designed to help visually impaired people navigate hospitals and interact through voice.
+An agentic video production system that autonomously researches trending topics, generates engaging scripts, creates consistent AI visuals, and publishes videos to YouTube.
 
-- Voice-based interaction.
-- Spoken question answering.
-- Indoor navigation to requested hospital destinations.
+-Multi-agent workflow orchestration using LangGraph.
+-Autonomous research and fact extraction using Tavily Search.
+-Script generation with a Writer–Critic feedback loop powered by Gemini 2.5 Flash.
+-Consistent AI image generation using Flux, prompt chaining, and seed locking.
+-Automated video assembly, SEO metadata generation, and YouTube uploading.
 
 </td>
 </tr>
