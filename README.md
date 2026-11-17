@@ -1,180 +1,178 @@
-
-# Hi, I'm Mohamed Alaa 👋
+# 👋 Hi, I'm Mohamed Alaa
 
 ### AI & Machine Learning Engineer | Data Science | Data Engineering
 
-I'm a Computer and Data Science student at **Alexandria University**, passionate about building practical AI systems and solving real-world problems through machine learning, computer vision, and data engineering.
+\<p align="center">   \<a href="[https://github.com/MohamedAlaa2005](https://github.com/MohamedAlaa2005)">     \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Intelligent+AI+Systems;Turning+Data+into+Insights;Exploring+Computer+Vision+%26+GenAI;From+Data+Engineering+to+Deployment](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=650\&lines=Building+Intelligent+AI+Systems;Turning+Data+into+Insights;Exploring+Computer+Vision+%26+GenAI;From+Data+Engineering+to+Deployment)" alt="Typing SVG" />   \</a> \</p>
 
-I enjoy working across the entire development lifecycle — from collecting and processing data to building intelligent models and deploying production-ready applications.
+\<p align="center">   \<a href="[https://www.linkedin.com/in/mohamed-alaa-62206229b/](https://www.linkedin.com/in/mohamed-alaa-62206229b/)">\<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />\</a>   \<a href="mailto\:mohamedalaa1098237\@gmail.com">\<img src="[https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />\</a>   \<a href="[https://github.com/MohamedAlaa2005](https://github.com/MohamedAlaa2005)">\<img src="[https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)" />\</a> \</p>
+
+---
+
+## `01` — About Me
+
+I'm a Computer and Data Science student at **Alexandria University**, passionate about building practical AI solutions and intelligent data-driven systems.
 
 - 🏆 **1st Place Globally — AnimalCLEF 2026**
-- 🤖 Working on AI-powered assistive robotics through **M.I.A. Robotics**
-- 🧠 Interested in Generative AI, Computer Vision, NLP, and Data Engineering
+- 🤖 AI Member at **M.I.A. Robotics**
+- 🧠 Interested in Generative AI, Computer Vision, NLP, and Machine Learning
+- 🏗️ Working across data pipelines, AI systems, APIs, and deployment
 - 📍 Alexandria, Egypt
-- 📫 Email: [mohamedalaa1098237@gmail.com](mailto:mohamedalaa1098237@gmail.com)
 
 ---
 
-## 🏆 Featured Achievement
+## `02` — Featured Achievement
 
-### 1st Place — AnimalCLEF 2026 | CVPR & CLEF Workshop
+\<p align="center">   \<img src="[https://img.shields.io/badge/AnimalCLEF_2026-1st_Place_Globally-gold?style=for-the-badge](https://img.shields.io/badge/AnimalCLEF_2026-1st_Place_Globally-gold?style=for-the-badge)" /> \</p>
 
-Achieved **1st place globally** in the open-set wildlife re-identification challenge with an Adjusted Rand Index (ARI) of **0.71087**.
+### 🥇 Wildlife Re-Identification — WildFusion
 
-- Developed WildFusion, combining global and local visual feature representations.
+Achieved **1st place globally** in AnimalCLEF 2026, an open-set wildlife re-identification challenge.
+
+- Developed **WildFusion**, combining global image descriptors with local feature matching.
 - Integrated MiewID, ALIKED, DISK, and LightGlue.
-- Applied metric learning and graph-based clustering.
-- Co-authored a working note paper presented at the CVPR & CLEF Workshop.
+- Applied metric learning and graph clustering.
+- Achieved an **ARI score of 0.71087**.
+- Co-authored a working note presented at the CVPR & CLEF Workshop.
 
 ---
 
-## 🚀 Featured Projects
+## `03` — Featured Projects
 
-### 🌍 Deimos — Earth Analog Discovery for the Moon and Mars
+\<table>
+\<tr>
+\<td width="50%" valign="top">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/MohamedAlaa2005/Deimos/tree/main)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://deimos-nasa.vercel.app/)
+### 🌍 Deimos
 
-A geospatial AI system that identifies Earth locations with environmental characteristics similar to selected locations on the Moon or Mars.
+**Earth Analog Discovery for the Moon & Mars**
 
-**Key Contributions:**
-- Collected and processed scientific datasets from 12 different sources covering Earth, the Moon, and Mars.
-- Built data processing pipelines to clean, transform, and integrate heterogeneous geospatial datasets.
-- Standardized spatial features using a common 1° × 1° grid.
-- Developed a similarity model to retrieve the Top 5 Earth analog locations.
-- Built the backend using FastAPI and Neon PostgreSQL.
+A planetary data engineering and similarity-search platform that identifies Earth locations resembling selected lunar or Martian regions.
 
-**Focus:** Data Engineering, Geospatial Processing, Machine Learning, FastAPI, PostgreSQL.
+- Integrates scientific datasets across three planetary bodies.
+- Standardizes spatial features on a common **1° × 1° grid**.
+- Ranks the **Top 5 Earth analog locations**.
+- Built with FastAPI and Neon PostgreSQL.
 
----
+\<p>
+\<a href="[https://github.com/MohamedAlaa2005/Deimos](https://github.com/MohamedAlaa2005/Deimos)">\<img src="[https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white](https://img.shields.io/badge/Source_Code-181717?style=flat\&logo=github\&logoColor=white)" />\</a>
+\<a href="[https://deimos-nasa.vercel.app/](https://deimos-nasa.vercel.app/)">\<img src="[https://img.shields.io/badge/Live_Demo-00A86B?style=flat&logo=vercel&logoColor=white](https://img.shields.io/badge/Live_Demo-00A86B?style=flat\&logo=vercel\&logoColor=white)" />\</a>
+\</p>
 
-### 🏥 HepaCare AI — Clinical Hepatology RAG System
+\</td>
+\<td width="50%" valign="top">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/MohamedAlaa2005/Clinical-Hepatology-RAG-System-HepaCare-AI)
+### 🩺 HepaCare AI
 
-A clinical AI assistant designed to retrieve relevant medical guidelines and generate reliable, source-grounded answers.
+**Clinical Hepatology RAG System**
 
-**Key Contributions:**
-- Built a hybrid retrieval pipeline combining BM25 and dense vector search.
-- Implemented Reciprocal Rank Fusion and cross-encoder reranking.
-- Developed structure-aware document ingestion for clinical guidelines.
-- Integrated Gemini-based answer verification and source citations.
-- Built a streaming FastAPI backend and Dockerized the application.
+A clinical knowledge assistant designed to retrieve medical information and generate source-cited answers.
 
-**Focus:** Generative AI, RAG, LLMs, Information Retrieval, FastAPI.
+- Hybrid retrieval using keyword and dense search.
+- Reranking to improve retrieval relevance.
+- Document processing and answer verification.
+- Streaming API with FastAPI and Docker.
 
----
+\<p>
+\<a href="[https://github.com/MohamedAlaa2005/Clinical-Hepatology-RAG-System-HepaCare-AI](https://github.com/MohamedAlaa2005/Clinical-Hepatology-RAG-System-HepaCare-AI)">\<img src="[https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white](https://img.shields.io/badge/Source_Code-181717?style=flat\&logo=github\&logoColor=white)" />\</a>
+\</p>
 
-### 🚘 MasrALPR — Egyptian License Plate Intelligence System
+\</td>
+\</tr>
+\<tr>
+\<td width="50%" valign="top">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/MohamedAlaa2005/MasrALPR)
+### 🚘 MasrALPR
 
-An automated license plate recognition system designed to detect and recognize Egyptian vehicle plates, including Arabic characters and numbers.
+**Egyptian License Plate Recognition**
 
-**Key Contributions:**
-- Developed license plate detection using YOLOv11.
-- Implemented a specialized OCR parser for Egyptian plates.
-- Integrated vehicle records with blacklist management.
-- Built a FastAPI backend with persistent SQLite storage.
-- Containerized the application using Docker.
+An automated system for detecting and recognizing Egyptian vehicle plates, including Arabic characters and numbers.
 
-**Focus:** Computer Vision, Object Detection, OCR, Backend Development.
+- License plate detection using YOLOv11.
+- Specialized OCR for Arabic plate recognition.
+- Database integration and blacklist management.
+- FastAPI backend with SQLite storage.
 
----
+\<p>
+\<a href="[https://github.com/MohamedAlaa2005/MasrALPR](https://github.com/MohamedAlaa2005/MasrALPR)">\<img src="[https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white](https://img.shields.io/badge/Source_Code-181717?style=flat\&logo=github\&logoColor=white)" />\</a>
+\</p>
 
-## 🛠️ Technical Skills
+\</td>
+\<td width="50%" valign="top">
 
-### Programming Languages
+### 🤖 SHOTO
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+**Assistive Hospital Robot**
 
-### AI & Machine Learning
+Contributed to an AI-powered assistive robot designed to help visually impaired people navigate hospitals and interact through voice.
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+- Voice-based interaction.
+- Spoken question answering.
+- Indoor navigation to requested hospital destinations.
 
-### Generative AI & LLMs
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square)
-
-### Backend & Data Engineering
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-### Tools & Deployment
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+\</td>
+\</tr>
+\</table>
 
 ---
 
-## 🤖 Student Activities
+## `04` — Technical Stack
 
-### AI Member — M.I.A. Robotics
-**Made in Alexandria | Faculty of Engineering, Alexandria University**
+### Languages
 
-Contributing to SHOTO, an AI-powered assistive hospital robot designed to help visually impaired people navigate hospital environments.
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=python,cpp,java,sql](https://skillicons.dev/icons?i=python,cpp,java,sql)" />
+\</p>
 
-- Working on voice-based interaction and AI question answering.
-- Integrating speech-to-text and text-to-speech capabilities.
-- Contributing to indoor navigation and spatial awareness.
+### AI / Machine Learning
 
----
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=pytorch,tensorflow,opencv](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv)" />
+&#x20; \<img src="[https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat\&logo=huggingface\&logoColor=black)" />
+&#x20; \<img src="[https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikitlearn\&logoColor=white)" />
+\</p>
 
-## 📜 Certifications
+### Generative AI & Data
 
-- **Computer Vision Summer Training** — National Telecommunication Institute (NTI), 2025.
-- **AI and Machine Learning Foundations** — SprintUp, 2025.
-- **IBM Applied Data Science Specialization** — Coursera, 2024.
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white](https://img.shields.io/badge/LangChain-1C3C3C?style=flat\&logo=chainlink\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/LangGraph-2D6A4F?style=flat](https://img.shields.io/badge/LangGraph-2D6A4F?style=flat)" />
+&#x20; \<img src="[https://img.shields.io/badge/RAG-6C63FF?style=flat](https://img.shields.io/badge/RAG-6C63FF?style=flat)" />
+&#x20; \<img src="[https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)" />
+\</p>
 
----
+### Backend, Databases & Tools
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohamedAlaa2005&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAlaa2005&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAlaa2005&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in collaborating on AI, Machine Learning, Computer Vision, and Data Engineering projects.
-
-<p align="left">
-  <a href="mailto:mohamedalaa1098237@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-alaa-62206229b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/MohamedAlaa2005">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=fastapi,flask,docker,postgres,sqlite,git,github,linux](https://skillicons.dev/icons?i=fastapi,flask,docker,postgres,sqlite,git,github,linux)" />
+\</p>
 
 ---
 
-<p align="center">
-  <i>Building intelligent systems, turning data into insights, and solving real-world problems through AI.</i>
-</p>
+## `05` — Experience & Activities
+
+### ⚙️ M.I.A. Robotics — AI Member
+
+*Made in Alexandria | Faculty of Engineering, Alexandria University*
+
+Contributed to **SHOTO**, an assistive hospital robot that supports visually impaired people through voice interaction, spoken question answering, and indoor navigation.
+
+---
+
+## `06` — Certifications
+
+- **Computer Vision Summer Training** — NTI, 2025
+- **AI and Machine Learning Foundations** — SprintUp, 2025
+- **IBM Applied Data Science Specialization** — Coursera, 2024
+
+---
+
+## `07` — GitHub Overview
+
+\<p align="center">   \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=MohamedAlaa2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=MohamedAlaa2005\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" />   \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAlaa2005&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAlaa2005\&layout=compact\&theme=tokyonight\&hide_border=true)" /> \</p>
+
+\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=MohamedAlaa2005&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=MohamedAlaa2005\&theme=tokyonight\&hide_border=true)" /> \</p>
+
+---
+
+\<p align="center">   \<b>Building intelligent systems. Engineering meaningful solutions.\</b>   \<br/>   \<sub>Thanks for visiting my profile! ⭐\</sub> \</p>
