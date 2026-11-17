@@ -2,9 +2,23 @@
 
 ### AI & Machine Learning Engineer | Data Science | Data Engineering
 
-\<p align="center">   \<a href="[https://github.com/MohamedAlaa2005](https://github.com/MohamedAlaa2005)">     \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Intelligent+AI+Systems;Turning+Data+into+Insights;Exploring+Computer+Vision+%26+GenAI;From+Data+Engineering+to+Deployment](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=650\&lines=Building+Intelligent+AI+Systems;Turning+Data+into+Insights;Exploring+Computer+Vision+%26+GenAI;From+Data+Engineering+to+Deployment)" alt="Typing SVG" />   \</a> \</p>
+<p align="center">
+  <a href="https://github.com/MohamedAlaa2005">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Intelligent+AI+Systems;Turning+Data+into+Insights;Exploring+Computer+Vision+%26+GenAI;From+Data+Engineering+to+Deployment" alt="Typing SVG" />
+  </a>
+</p>
 
-\<p align="center">   \<a href="[https://www.linkedin.com/in/mohamed-alaa-62206229b/](https://www.linkedin.com/in/mohamed-alaa-62206229b/)">\<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />\</a>   \<a href="mailto\:mohamedalaa1098237\@gmail.com">\<img src="[https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />\</a>   \<a href="[https://github.com/MohamedAlaa2005](https://github.com/MohamedAlaa2005)">\<img src="[https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)" />\</a> \</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-alaa-62206229b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mohamedalaa1098237@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/MohamedAlaa2005">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -22,7 +36,9 @@ I'm a Computer and Data Science student at **Alexandria University**, passionate
 
 ## `02` — Featured Achievement
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/AnimalCLEF_2026-1st_Place_Globally-gold?style=for-the-badge](https://img.shields.io/badge/AnimalCLEF_2026-1st_Place_Globally-gold?style=for-the-badge)" /> \</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AnimalCLEF_2026-1st_Place_Globally-gold?style=for-the-badge" />
+</p>
 
 ### 🥇 Wildlife Re-Identification — WildFusion
 
@@ -38,9 +54,9 @@ Achieved **1st place globally** in AnimalCLEF 2026, an open-set wildlife re-iden
 
 ## `03` — Featured Projects
 
-\<table>
-\<tr>
-\<td width="50%" valign="top">
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🌍 Deimos
 
@@ -53,13 +69,17 @@ A planetary data engineering and similarity-search platform that identifies Eart
 - Ranks the **Top 5 Earth analog locations**.
 - Built with FastAPI and Neon PostgreSQL.
 
-\<p>
-\<a href="[https://github.com/MohamedAlaa2005/Deimos](https://github.com/MohamedAlaa2005/Deimos)">\<img src="[https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white](https://img.shields.io/badge/Source_Code-181717?style=flat\&logo=github\&logoColor=white)" />\</a>
-\<a href="[https://deimos-nasa.vercel.app/](https://deimos-nasa.vercel.app/)">\<img src="[https://img.shields.io/badge/Live_Demo-00A86B?style=flat&logo=vercel&logoColor=white](https://img.shields.io/badge/Live_Demo-00A86B?style=flat\&logo=vercel\&logoColor=white)" />\</a>
-\</p>
+<p>
+  <a href="https://github.com/MohamedAlaa2005/Deimos">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://deimos-nasa.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-00A86B?style=flat&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-\</td>
-\<td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### 🩺 HepaCare AI
 
@@ -72,14 +92,16 @@ A clinical knowledge assistant designed to retrieve medical information and gene
 - Document processing and answer verification.
 - Streaming API with FastAPI and Docker.
 
-\<p>
-\<a href="[https://github.com/MohamedAlaa2005/Clinical-Hepatology-RAG-System-HepaCare-AI](https://github.com/MohamedAlaa2005/Clinical-Hepatology-RAG-System-HepaCare-AI)">\<img src="[https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white](https://img.shields.io/badge/Source_Code-181717?style=flat\&logo=github\&logoColor=white)" />\</a>
-\</p>
+<p>
+  <a href="https://github.com/MohamedAlaa2005/Clinical-Hepatology-RAG-System-HepaCare-AI">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
 
-\</td>
-\</tr>
-\<tr>
-\<td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🚘 MasrALPR
 
@@ -92,12 +114,14 @@ An automated system for detecting and recognizing Egyptian vehicle plates, inclu
 - Database integration and blacklist management.
 - FastAPI backend with SQLite storage.
 
-\<p>
-\<a href="[https://github.com/MohamedAlaa2005/MasrALPR](https://github.com/MohamedAlaa2005/MasrALPR)">\<img src="[https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white](https://img.shields.io/badge/Source_Code-181717?style=flat\&logo=github\&logoColor=white)" />\</a>
-\</p>
+<p>
+  <a href="https://github.com/MohamedAlaa2005/MasrALPR">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
 
-\</td>
-\<td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 SHOTO
 
@@ -109,9 +133,9 @@ Contributed to an AI-powered assistive robot designed to help visually impaired 
 - Spoken question answering.
 - Indoor navigation to requested hospital destinations.
 
-\</td>
-\</tr>
-\</table>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -119,33 +143,33 @@ Contributed to an AI-powered assistive robot designed to help visually impaired 
 
 ### Languages
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=python,cpp,java,sql](https://skillicons.dev/icons?i=python,cpp,java,sql)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,sql" />
+</p>
 
 ### AI / Machine Learning
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=pytorch,tensorflow,opencv](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv)" />
-&#x20; \<img src="[https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat\&logo=huggingface\&logoColor=black)" />
-&#x20; \<img src="[https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikitlearn\&logoColor=white)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+</p>
 
 ### Generative AI & Data
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white](https://img.shields.io/badge/LangChain-1C3C3C?style=flat\&logo=chainlink\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/LangGraph-2D6A4F?style=flat](https://img.shields.io/badge/LangGraph-2D6A4F?style=flat)" />
-&#x20; \<img src="[https://img.shields.io/badge/RAG-6C63FF?style=flat](https://img.shields.io/badge/RAG-6C63FF?style=flat)" />
-&#x20; \<img src="[https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)" />
-\</p>
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-2D6A4F?style=flat" />
+  <img src="https://img.shields.io/badge/RAG-6C63FF?style=flat" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+</p>
 
 ### Backend, Databases & Tools
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=fastapi,flask,docker,postgres,sqlite,git,github,linux](https://skillicons.dev/icons?i=fastapi,flask,docker,postgres,sqlite,git,github,linux)" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,postgres,sqlite,git,github,linux" />
+</p>
 
 ---
 
@@ -169,10 +193,19 @@ Contributed to **SHOTO**, an assistive hospital robot that supports visually imp
 
 ## `07` — GitHub Overview
 
-\<p align="center">   \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=MohamedAlaa2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=MohamedAlaa2005\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" />   \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAlaa2005&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAlaa2005\&layout=compact\&theme=tokyonight\&hide_border=true)" /> \</p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohamedAlaa2005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAlaa2005&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=MohamedAlaa2005&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=MohamedAlaa2005\&theme=tokyonight\&hide_border=true)" /> \</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MohamedAlaa2005&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-\<p align="center">   \<b>Building intelligent systems. Engineering meaningful solutions.\</b>   \<br/>   \<sub>Thanks for visiting my profile! ⭐\</sub> \</p>
+<p align="center">
+  <b>Building intelligent systems. Engineering meaningful solutions.</b>
+  <br />
+  <sub>Thanks for visiting my profile! ⭐</sub>
+</p>
